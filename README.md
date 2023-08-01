@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu_Tadhiyal</h1>
 <h3 align="center">A passionate Computer Programmer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"
+<img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leviiackerman01&label=Profile%20views&color=0e75b6&style=flat" alt="leviiackerman01" /> </p>
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/priyanshu-t-80a486273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanshu-t-80a486273" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/levii_noname01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/levii_noname01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/priyanshutadhiy1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/priyanshutadhiy1?hr_r=1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/priyanshu_tadhiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/priyanshu_tadhiyal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/priyanshu-123_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/priyanshu-123_/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/priyanshut50qm/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/priyanshut50qm/practice" height="30" width="40" /></a>
