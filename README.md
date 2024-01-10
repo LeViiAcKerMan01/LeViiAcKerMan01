@@ -26,6 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leviiackerman01&show_icons=true&locale=en" alt="leviiackerman01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leviiackerman01&" alt="leviiackerman01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leviiackerman01&" alt="leviiackerman01" /></p> <br>
 
 [![An image of @leviiackerman01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leviiackerman01)](https://holopin.io/@leviiackerman01)
