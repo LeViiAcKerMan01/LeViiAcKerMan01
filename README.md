@@ -9,7 +9,6 @@
 🔭 I’m currently working on [LeViiAcKerMan01](https://github.com/LeViiAcKerMan01/LeViiAcKerMan01)<br>
 📫 How to reach me **priyanshutadhiyal4@gmail.com**<br>
 👨‍💻 All of my projects are available [Here](https://github.com/LeViiAcKerMan01?tab=repositories)<br>
-🤝 I’m looking for help with <br>
 🌱 I’m currently learning DS&A and MERN stack<br>
 💬 Ask me about Cyber Security, OOPS, C/C++<br>
 😃 Interested in Data Structures and Algorithms and Web Development
