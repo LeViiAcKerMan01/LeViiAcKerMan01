@@ -6,8 +6,8 @@
 <br clear="both">
 
 <p align="left">Hello World</p><br>
-🔭 I’m currently working on [LeViiAcKerMan01](https://github.com/LeViiAcKerMan01/LeViiAcKerMan01)<br>
-📫 How to reach me **priyanshutadhiyal4@gmail.com**<br>
+- 🔭 I’m currently working on [LeViiAcKerMan01](https://github.com/LeViiAcKerMan01/LeViiAcKerMan01)<br>
+- 📫 How to reach me **priyanshutadhiyal4@gmail.com**<br>
 👨‍💻 All of my projects are available https://github.com/LeViiAcKerMan01?tab=repositories<br>
 🤝 I’m looking for help with <br>
 🌱 I’m currently learning DS&A and MERN stack<br>
