@@ -4,10 +4,10 @@
 
 
 <br clear="both">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leviiackerman01&label=Profile%20views&color=0e75b6&style=flat" alt="leviiackerman01" /> </p>
 
-<p align="left">Hello World</p><br>
-- 🔭 I’m currently working on [LeViiAcKerMan01](https://github.com/LeViiAcKerMan01/LeViiAcKerMan01)<br>
-- 📫 How to reach me **priyanshutadhiyal4@gmail.com**<br>
+🔭 I’m currently working on [LeViiAcKerMan01](https://github.com/LeViiAcKerMan01/LeViiAcKerMan01)<br>
+📫 How to reach me **priyanshutadhiyal4@gmail.com**<br>
 👨‍💻 All of my projects are available https://github.com/LeViiAcKerMan01?tab=repositories<br>
 🤝 I’m looking for help with <br>
 🌱 I’m currently learning DS&A and MERN stack<br>
