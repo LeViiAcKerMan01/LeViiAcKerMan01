@@ -75,6 +75,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LeViiAcKerMan01/LeViiAcKerMan01/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 [![An image of @leviiackerman01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leviiackerman01)](https://holopin.io/@leviiackerman01)
